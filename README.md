@@ -6,13 +6,13 @@
 
 🖥 Teams meeting URL: ❔
 
-  - Student 1: ❔
+  - Student 1: Sokaina Kharou
 
-  - Student 2: ❔
+  - Student 2: Majda Kossi
 
-  - Student 3: ❔
+  - Student 3: Taha Lakhdari
 
-  - Student 4: ❔
+  - Student 4: Yousra Lamhamedi
 
 ## Getting Started
 
