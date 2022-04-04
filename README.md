@@ -4,7 +4,7 @@
 
 ## Team
 
-🖥 Teams meeting URL: ❔
+🖥 Teams meeting URL: https://teams.microsoft.com/l/channel/19%3aeRWfOxyknOVFx_uDV9AQjvarqyi1x0ifyyhts6-kQbs1%40thread.tacv2/G%25C3%25A9n%25C3%25A9ral?groupId=54fbd427-397f-4541-a011-08a589822487&tenantId=39626157-a047-4689-87a2-6fa645cb5cb7
 
   - Student 1: Sokaina Kharou
 
